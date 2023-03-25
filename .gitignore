@@ -1,0 +1,11 @@
+*.gb 
+*.sav
+*.asm
+*.ihx
+*.o
+*.sym
+release
+debug
+setup.py
+make.py
+gbconfig.json
