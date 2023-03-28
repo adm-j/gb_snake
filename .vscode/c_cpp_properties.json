@@ -5,8 +5,9 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/gbdk/**"
-            ]
+            ],
+            "intelliSenseMode": "linux-gcc-x64"
         }
     ],
-
+    "version": 4
 }

@@ -9,3 +9,4 @@ debug
 setup.py
 make.py
 gbconfig.json
+debug.sh
